@@ -1,0 +1,71 @@
+.navbar.navbar-default {
+	background-color:black;
+	font-size: 25px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: white;
+}
+.nav.navbar-nav.navbar-right li a:hover {
+	background-color: aqua;
+	-webkit-transition:1s;
+}
+
+.container-fluid .navbar-header .navbar-brand {
+	color: white;
+	font-size: 25px;
+	
+}
+.jumbotron {
+	background-image:url("../images/3.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	height: 507px;
+	color: white;
+	font-family: algerian;
+	
+}
+.container p .btn.btn-primary.btn-lg {
+	background-color: green;
+	border: none;
+}
+
+.container p .btn.btn-primary.btn-lg:hover{
+	background-color: burlywood;
+	-webkit-transition:1s;
+}
+.container-fluid {
+	margin-top: 0px;
+	margin-bottom: 50px;
+	
+}
+.row .col-md-12 .about {
+	text-align: center;
+}
+
+.row .col-md-4 .education-icon.img-responsive.center-block {
+	
+}
+.row .col-md-6 .school {
+	margin-top: 0px;
+	
+}
+.container .row .col-md-3 {
+	background-color: aqua;
+}
+.container-fluid.three {
+	background-color:cornsilk;
+}
+
+	
+.footer-text{
+	
+	text-align: center;
+}
+
+.container-fluid.five {
+	background-color: #A0D36E;
+	padding-top: 50px;
+	margin-bottom: 0px;
+	padding-bottom: 50px;
+}
